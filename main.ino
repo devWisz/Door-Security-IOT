@@ -10,7 +10,7 @@
 BlynkTimer timer;
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "keep your wifi";
+char ssid[] = "keep your wifi ssd";
 char pass[] = "wifi password";
 
 int PIN_1 = D1;
